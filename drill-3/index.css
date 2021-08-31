@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.gray {
+  background-color: lightgray;
+  padding: 55px;
+  box-sizing: border-box;
+}
+.square {
+  width: 70px;
+  height: 70px;
+  background-color: #3b89e2;
+  display: inline-block;
+}
+
+.white {
+  background-color: white;
+  padding: 100px;
+  box-sizing: border-box;
+}
+.blue {
+  background-color: rgb(0, 174, 255);
+  padding: 55px;
+  box-sizing: border-box;
+}
+.green {
+  background-color: rgb(0, 255, 221);
+  padding: 55px;
+  box-sizing: border-box;
+}
+.lemon {
+  background-color: rgb(175, 228, 144);
+  padding: 55px;
+  box-sizing: border-box;
+}
+.yellow {
+  background-color: yellow;
+  padding: 55px;
+  box-sizing: border-box;
+}
